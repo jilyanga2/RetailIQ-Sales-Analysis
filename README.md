@@ -44,4 +44,4 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 
 ## Dashboard Preview
 <b>Sales Analysis:</b>
-Sales%20Analysis.png
+![image alt]()
