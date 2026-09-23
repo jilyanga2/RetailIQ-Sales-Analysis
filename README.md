@@ -41,3 +41,5 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 * Improve performance of underperforming stores.
 * Resolve data quality issues associated with the "(Blank)" store category.
 * Replicate successful practices from top-performing stores.
+
+## Dashboard Preview
