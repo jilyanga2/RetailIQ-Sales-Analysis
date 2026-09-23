@@ -22,5 +22,5 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 * Excel / CSV
 
 ## Key Insights
-** Product Performance
+<b>Product Performance:</b>
 * Product Model 1014 generated the highest revenue.
