@@ -8,3 +8,9 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 * Product performance
 * Store performance
 * Category analysis
+
+## Business Questions
+* Which products generate the highest revenue?
+* Which stores are underperforming?
+* What are the monthly sales trends?
+* Which categories contribute the most revenue?
