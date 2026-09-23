@@ -14,3 +14,9 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 * Which stores are underperforming?
 * What are the monthly sales trends?
 * Which categories contribute the most revenue?
+
+## Tools Used
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV
