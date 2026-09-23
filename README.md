@@ -23,7 +23,7 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 
 ## Key Insights
 <b>Product Performance:</b>
-* Product Model 1014 generated the highest revenue.
+* Product Model 10144 generated the highest revenue.
 
 <b>Store Performance:</b>
 * RetailIQ Store 160 was the top-performing store.
@@ -32,3 +32,6 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 <b>Revenue Trends:</b>
 * Sales remained stable from January to July.
 * A significant decline was observed from August onwards.
+
+<b>Category Performance:<?b>
+* Clothing generated the highest revenue among product categories.
