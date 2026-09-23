@@ -44,4 +44,5 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 
 ## Dashboard Preview
 <b>Sales Analysis:</b>
-![image alt]()
+
+![image alt](https://github.com/jilyanga2/RetailIQ-Sales-Analysis/blob/main/Sales%20Analysis.png)
