@@ -43,16 +43,16 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 * Replicate successful practices from top-performing stores.
 
 ## Dashboard Preview
-<b>Sales Analysis:</b>
+# Sales Analysis:
 
 ![image alt](https://github.com/jilyanga2/RetailIQ-Sales-Analysis/blob/main/Sales%20Analysis.png)
 
 
-<b>Store Performance:</b>
+# Store Performance:
 
 ![image alt](https://github.com/jilyanga2/RetailIQ-Sales-Analysis/blob/main/Store%20Performance.png)
 
 
-<b>Monthly Sales Analysis:</b>
+# Monthly Sales Analysis:
 
 ![image alt](https://github.com/jilyanga2/RetailIQ-Sales-Analysis/blob/main/Monthly%20Sales.png)
