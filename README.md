@@ -36,7 +36,7 @@ This project analyzes retail sales data using <b>Power BI</b> to uncover busines
 <b>Category Performance:</b>
 * Clothing generated the highest revenue among product categories.
 
-<b>Recommendations</b>
+## Recommendations
 * Investigate causes of declining sales after July.
 * Improve performance of underperforming stores.
 * Resolve data quality issues associated with the "(Blank)" store category.
